@@ -36,7 +36,6 @@ qrc_*.cpp
 *.vcxproj*
 .vs/
 
-
 # OS
 .DS_Store
 Thumbs.db
