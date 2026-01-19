@@ -34,6 +34,8 @@ qrc_*.cpp
 *.suo
 *.sln
 *.vcxproj*
+.vs/
+
 
 # OS
 .DS_Store

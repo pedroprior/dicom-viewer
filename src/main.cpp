@@ -5,12 +5,10 @@
 int main(int argc, char* argv[]) {
     QApplication app(argc, argv);
     
-    // Set application metadata
     QApplication::setApplicationName("DICOM Exercise");
     QApplication::setApplicationVersion("1.0");
     QApplication::setOrganizationName("Medical Imaging");
     
-    // Set dark theme (optional)
     app.setStyle(QStyleFactory::create("Fusion"));
     
     QPalette dark_palette;

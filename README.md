@@ -55,7 +55,8 @@ dicom-viewer/
   - `dcmdata`: DICOM data structures
   - `dcmimgle`: Image processing for grayscale
   - `dcmimage`: Image processing for color
-- **Qt 6.x**: Cross-platform GUI framework
+
+- **Qt 6.x**: Cross-platform GUI framework (Necessary to install and include Qt6_DIR in PATH)
   - Widgets module for UI components
   - Image handling for display
 
@@ -224,6 +225,3 @@ This project is developed as a technical assessment and is provided as-is for ev
 - Caching of display buffers
 - Efficient window/level calculation
 - Minimal copies using move semantics
-
-## Contact
-For questions or issues, please contact pedropriordev@gmail.com
